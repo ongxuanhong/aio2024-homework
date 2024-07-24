@@ -1,0 +1,11 @@
+Day,Outlook,Temperature,Humidity,Wind,Play Tennis
+D1,Sunny,Hot,High,Weak,no
+D2,Sunny,Hot,High,Strong,no
+D3,Overcast,Hot,High,Weak,yes
+D4,Rain,Mild,High,Weak,yes
+D5,Rain,Cool,Normal,Weak,yes
+D6,Rain,Cool,Normal,Strong,no
+D7,Overcast,Cool,Normal,Strong,yes
+D8,Overcast,Mild,High,Weak,no
+D9,Sunny,Cool,Normal,Weak,yes
+D10,Rain,Mild,Normal,Weak,yes
