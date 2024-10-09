@@ -4,3 +4,4 @@ pandas==2.2.2
 opencv-python==4.10.0.84
 datasets==2.21.0
 scikit-learn==1.5.1
+mplfinance==0.12.10b0
