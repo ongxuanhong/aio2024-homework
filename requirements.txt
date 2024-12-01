@@ -6,3 +6,5 @@ datasets==2.21.0
 scikit-learn==1.5.1
 mplfinance==0.12.10b0
 nltk==3.9.1
+torch==2.5.1
+torchvision==0.20.1
