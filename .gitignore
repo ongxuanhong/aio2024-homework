@@ -162,3 +162,4 @@ cython_debug/
 .idea/
 .DS_Store
 FER-2013
+module05/hw05-gradient-vanishing/data/
