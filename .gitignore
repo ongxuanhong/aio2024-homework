@@ -163,3 +163,4 @@ cython_debug/
 .DS_Store
 FER-2013
 module05/hw05-gradient-vanishing/data/
+module06/hw01-cnn/data/

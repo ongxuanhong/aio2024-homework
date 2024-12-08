@@ -8,3 +8,5 @@ mplfinance==0.12.10b0
 nltk==3.9.1
 torch==2.5.1
 torchvision==0.20.1
+torch-summary==1.4.5
+streamlit==1.40.2
