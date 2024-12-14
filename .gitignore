@@ -165,3 +165,6 @@ FER-2013
 module05/hw05-gradient-vanishing/data/
 module06/hw01-cnn/data/
 module06/hw01-cnn/model/
+scenes_classification/
+weather-dataset/
+model/
