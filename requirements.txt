@@ -19,3 +19,6 @@ kagglehub==0.3.6
 seaborn==0.13.2
 termcolor==2.5.0
 albumentations==2.0.0
+ultralytics==8.3.67
+pre-commit==4.1.0
+loguru==0.7.3
