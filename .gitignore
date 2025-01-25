@@ -169,3 +169,5 @@ scenes_classification/
 weather-dataset/
 model/
 data/
+*.pt
+*.mp4
