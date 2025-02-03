@@ -171,3 +171,4 @@ model/
 data/
 *.pt
 *.mp4
+out_dir/
