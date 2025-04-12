@@ -24,3 +24,4 @@ pre-commit==4.1.0
 loguru==0.7.3
 sacrebleu==2.5.1
 sentence-transformers==3.4.1
+gdown==5.2.0
