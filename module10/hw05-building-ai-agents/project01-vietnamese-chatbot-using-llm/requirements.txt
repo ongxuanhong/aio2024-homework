@@ -1,0 +1,8 @@
+transformers[torch]==4.51.3
+datasets==3.5.1
+peft==0.15.2
+bitsandbytes==0.45.5
+unsloth==2025.4.7
+gradio
+openai
+vllm
