@@ -1,0 +1,5 @@
+requests
+transformers
+smolagents
+torch
+bs4
