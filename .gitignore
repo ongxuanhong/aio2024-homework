@@ -175,3 +175,5 @@ out_dir/
 module08/hw04-machine-translation/en-vi-machine-translation/
 cvpr2016_flowers/
 logs/
+*.zip
+celeba_hq_256/
